@@ -14,7 +14,7 @@
 
 PROJECT := gangway
 # Where to push the docker image.
-REGISTRY ?= gcr.io/heptio-images
+REGISTRY ?= stewbernetes
 IMAGE := $(REGISTRY)/$(PROJECT)
 SRCDIRS := ./cmd/gangway
 PKGS := $(shell go list ./cmd/... ./internal/...)

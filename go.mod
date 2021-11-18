@@ -20,10 +20,12 @@ require (
 	github.com/sirupsen/logrus v1.0.3
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/stretchr/testify v1.5.1 // indirect
-	golang.org/x/crypto v0.0.0-20171113213409-9f005a07e0d3
+	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
+	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d // indirect
 	golang.org/x/oauth2 v0.0.0-20171106152852-9ff8ebcc8e24
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e // indirect
-	golang.org/x/text v0.3.2 // indirect
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
+	golang.org/x/sys v0.0.0-20211117180635-dee7805ff2e1 // indirect
+	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/appengine v1.0.0 // indirect
 	gopkg.in/airbrake/gobrake.v2 v2.0.9 // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
